@@ -1,0 +1,2 @@
+# shooting-ground
+Использование Pygame
